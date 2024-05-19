@@ -1,0 +1,15 @@
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\bin\Debug\net7.0\Suggestion.Domain.deps.json
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\bin\Debug\net7.0\Suggestion.Domain.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\bin\Debug\net7.0\Suggestion.Domain.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\bin\Debug\net7.0\Suggestion.Core.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\bin\Debug\net7.0\Suggestion.Core.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.csproj.AssemblyReference.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.AssemblyInfoInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.AssemblyInfo.cs
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.csproj.CopyComplete
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\refint\Suggestion.Domain.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\Suggestion.Domain.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Domain\obj\Debug\net7.0\ref\Suggestion.Domain.dll

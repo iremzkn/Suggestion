@@ -1,0 +1,14 @@
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\bin\Debug\net7.0\Suggestion.Core.deps.json
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\bin\Debug\net7.0\Suggestion.Core.runtimeconfig.json
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\bin\Debug\net7.0\Suggestion.Core.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\bin\Debug\net7.0\Suggestion.Core.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.csproj.AssemblyReference.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.AssemblyInfoInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.AssemblyInfo.cs
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.csproj.CoreCompileInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\refint\Suggestion.Core.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\Suggestion.Core.genruntimeconfig.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Core\obj\Debug\net7.0\ref\Suggestion.Core.dll

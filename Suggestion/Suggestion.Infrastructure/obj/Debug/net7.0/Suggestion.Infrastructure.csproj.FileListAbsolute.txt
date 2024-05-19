@@ -1,0 +1,17 @@
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Infrastructure.deps.json
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Infrastructure.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Infrastructure.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Core.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Domain.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Core.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\bin\Debug\net7.0\Suggestion.Domain.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.AssemblyInfo.cs
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.csproj.CopyComplete
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\refint\Suggestion.Infrastructure.dll
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\Suggestion.Infrastructure.pdb
+C:\Users\yavuz.cakmak\source\repos\Suggestion\Suggestion.Infrastructure\obj\Debug\net7.0\ref\Suggestion.Infrastructure.dll
